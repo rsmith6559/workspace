@@ -3,6 +3,9 @@
 from mpl_toolkits.mplot3d import axes3d
 import matplotlib.pyplot as plt
 import numpy as np
+from matplotlib import style
+
+style.use( "fast" )
 
 fig = plt.figure()
 ax = fig.add_subplot( 111, projection='3d' )
