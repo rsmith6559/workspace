@@ -1,0 +1,9 @@
+- centos7
+httpd-3.0
+ssh-9.2
+vim-1.0
+
+- centos9
+bash-6.75
+kernel-6.3.2.1
+
